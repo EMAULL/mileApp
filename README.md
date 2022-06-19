@@ -41,3 +41,8 @@ b. Login user dan password
 - Login dengan mengosongkan field password.
 - Verify tombol SHOW/HIDE field password berfungsi.
 
+TEST API
+Test Name : Failed Login
+End point : https://apidev.mile.app/v1/login
+response  : {"status":false,"message":"Login failed, please check your email or password."}
+
