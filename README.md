@@ -31,6 +31,7 @@ a. Login organisasi memasukkan nama organisasi
 - Login menggunakan dengan nama organisasi yang valid.
 - Login menggunakan dengan nama organisasi yang invalid.
 - Login dengan mengosongkan field nama organisasi yang valid.
+
 b. Login user dan password
 - Login menggunakan dengan username/email dan password yang valid.
 - Login menggunakan dengan username/email yang invalid dan password yang valid.
