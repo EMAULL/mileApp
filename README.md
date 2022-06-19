@@ -39,4 +39,5 @@ b. Login user dan password
 - Login dengan mengosongkan field username/email dan password.
 - Login dengan mengosongkan field username/email.
 - Login dengan mengosongkan field password.
+- Verify tombol SHOW/HIDE field password berfungsi.
 
