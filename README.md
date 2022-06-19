@@ -1,5 +1,3 @@
-# mileApp
-QA Engineer Test
 # JAWABAN QA ENGINEER TEST MILEAPP
 
 1. Sebutkan 3 kesalahan besar yang paling sering dilakukan oleh QA, dan berikan solusinya agar
